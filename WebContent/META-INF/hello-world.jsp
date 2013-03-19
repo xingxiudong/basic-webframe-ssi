@@ -10,6 +10,6 @@
 </head>
 <body>
 Hello world!
-The message is ${message}
+The message is ${message}.
 </body>
 </html>

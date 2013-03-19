@@ -10,6 +10,11 @@ import ch.qos.logback.classic.Logger;
 
 import com.ebiz.comm.domain.UserInfo;
 
+/**
+ * 
+ * @author XingXiuDong
+ * @date 2013-3-19
+ */
 public class FacadeTest {
 
 	public Logger logger = (Logger) LoggerFactory.getLogger(this.getClass());
